@@ -1,8 +1,8 @@
 ## Hi there 😎
 
-My name is Mostafa Abd Al-Kareem, I'm a front end developer.
+My name is Mostafa Abd Al-Kareem, I'm a frontend developer.
 
-I’m currently learning computer sicence.
+I’m currently learning computer sicence and backend dev.
 
 You can contact me using my email.
 
